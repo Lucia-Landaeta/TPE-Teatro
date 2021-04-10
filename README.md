@@ -1,2 +1,2 @@
 # TPE-Teatro
-Trabajo entregable 1 de IPOO
+Trabajo entregable de Introduccion a la Programacion Orientada a Objetos
