@@ -15,7 +15,7 @@ class Musical extends Funcion
      * @param int $hsInicioMusc
      * @param int $duracionMusc
      * @param float $precioMusc
-     * @param date $fecha
+     * @param string $fecha
      * @param string $directorMusc
      * @param int $persEscena
      */

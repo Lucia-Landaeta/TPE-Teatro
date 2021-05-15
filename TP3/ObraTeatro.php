@@ -8,7 +8,7 @@ class ObraTeatro extends Funcion
      * @param int $hsInicioObra
      * @param int $duracionObra
      * @param float $precioObra
-     * @param date $fecha
+     * @param string $fecha
      */
     public function __construct($nombreObra, $hsInicioObra, $duracionObra, $precioObra, $fecha)
     {

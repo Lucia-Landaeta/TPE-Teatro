@@ -16,7 +16,7 @@ class Cine extends Funcion
      * @param int $hsInicioPeli
      * @param int $duracionPeli
      * @param float $precioPeli
-     * @param date $fecha
+     * @param string $fecha
      * @param string $generoPeli
      * @param string $paisOrigenPeli
      */
